@@ -85,16 +85,6 @@ const Navigation = () => {
                   <Button>Contactanos</Button>
                 </Link>
               </li>
-              <li className="list-inline-item">
-                <Link to="/">
-                  <Button>Home</Button>
-                </Link>
-              </li>
-              <li className="list-inline-item">
-                <Link to="/">
-                  <Button>Home</Button>
-                </Link>
-              </li>
             </ul>
           </div>
         </div>

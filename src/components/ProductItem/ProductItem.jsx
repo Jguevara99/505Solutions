@@ -1,5 +1,7 @@
 import Button from "@mui/material/Button";
 import Rating from "@mui/material/Rating";
+import { TfiFullscreen } from "react-icons/tfi";
+import { IoMdHeartEmpty } from "react-icons/io";
 
 const ProductItem =() =>{
    return(
@@ -13,7 +15,8 @@ const ProductItem =() =>{
       <span className="badge badge-primary">20%</span>
 
       <div className="actions">
-          <Button>{}</Button>
+          <Button><TfiFullscreen/></Button>
+          <Button><IoMdHeartEmpty style={{fontSize:'20px'}}/></Button>
       </div>
 
     </div>
