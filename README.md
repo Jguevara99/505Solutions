@@ -36,4 +36,4 @@ Este proyecto es la parte de frontend de un eCommerce enfocado en la venta de pr
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-repositorio.git
+   git clone https://github.com/Jguevara99/505Solutions.git
